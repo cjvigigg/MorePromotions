@@ -72,19 +72,19 @@
   {
      "name": "Air Mobility I",
      "prerequisites": ["Post Rank"],
-     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory",
      "unitTypes": ["Infantry","Sniper","Armored","Siege","Scout","Rover","Close Range Mech","Stealth Infantry"]
   },
   {
      "name": "Air Mobile II",
      "prerequisites": ["Air Mobile I"],
-     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory",
      "unitTypes": ["Infantry","Sniper","Armored","Siege","Scout","Rover","Close Range Mech","Stealth Infantry"]
   },
   {
      "name": "Air Mobile III",
      "prerequisites": ["Air Mobile II"],
-     "uniques": ["May Paradrop up to [+3] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "uniques": ["May Paradrop up to [+3] tiles from inside friendly territory",
      "unitTypes": ["Infantry","Sniper","Armored","Siege","Scout","Rover","Close Range Mech","Stealth Infantry"]
   },
  
@@ -126,37 +126,37 @@
      "name": "Rank III",
      "prerequisites": ["Rank II"],
      "uniques": ["[+60]% XP gained from combat", "[+10]% Strength"],
-     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege",Drone","Satellite","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
+     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege,"Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
   },
     {
      "name": "Post Rank",
      "prerequisites": ["Rank III"],
      "uniques": ["[+25]% XP gained from combat", "[+1] Movement", "[+1] Sight"],
-     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege",Drone","Satellite","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
+     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
   },
   {
      "name": "Community Sway",
      "prerequisites": ["Post Rank"],
      "uniques": ["Prevents spreading of religion to the city it is next to"],
-     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege",Drone","Satellite","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
+     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
   },
   {
      "name": "Community Defender",
      "prerequisites": ["Post Rank"],
      "uniques": ["[+3] Sight", "Can see over obstacles", "[+10]% Strength bonus for [Military] units within [2] tiles"],
-     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege",Drone","Satellite","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
+     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
   },
   {
      "name": "Community Builder",
      "prerequisites": ["Post Rank"],
      "uniques": ["Can build [All] improvements on tiles", "Can build [All] improvements at a [+100]% rate"],
-     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege",Drone","Satellite","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
+     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
   },
   {
      "name": "Martyr",
      "prerequisites": ["Post Rank"],
      "uniques": ["Can generate a large amount of culture <by consuming this unit>"],
-     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege",Drone","Satellite","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
+     "unitTypes": ["Infantry","Sniper","Stealth Infantry","Armoured","Close Range Mech","Ranged Mech","Scout","Rover","Siege","Close Range Water","Ranged Water","Hover","Land Carrier","Hover Carrier"]
   },
   {
      "name": "Offensive Drills",
