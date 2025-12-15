@@ -70,7 +70,7 @@
   },
 
   {
-     "name": "Air Mobility I",
+     "name": "Air Mobile I",
      "prerequisites": ["Post Rank"],
      "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory",
      "unitTypes": ["Infantry","Sniper","Armored","Siege","Scout","Rover","Close Range Mech","Stealth Infantry"]
